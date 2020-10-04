@@ -1,6 +1,6 @@
 # VerletPhysics
 Physics Engine
-* GUI allowing adjustable parameters
+* GUI allowing adjustable parameters (Right Click for Menu)
 * Add and Delete objects
 * Select and move using WASD
 * Easily Breakable :D
